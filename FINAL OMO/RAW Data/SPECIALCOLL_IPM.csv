@@ -1,0 +1,325 @@
+﻿UNIT,PEST TYPE,YEAR,MONTH,PEST COUNT
+RBML,"Bees, Honey",2018,1,0
+RBML,"Beetle, Cabinet",2018,1,0
+RBML,"Beetle, Carpet ",2018,1,0
+RBML,"Beetle, Cigarette ",2018,1,0
+RBML,"Beetle, Drugstore",2018,1,0
+RBML,"Beetle, Furniture",2018,1,1
+RBML,"Beetle, Ground",2018,1,1
+RBML,"Beetle, Hide",2018,1,0
+RBML,"Beetle, Odd",2018,1,0
+RBML,"Beetle, Powder post",2018,1,0
+RBML,"Beetle, Spider",2018,1,0
+RBML,"Beetle, Unid.",2018,1,0
+RBML,Book Louse,2018,1,4
+RBML,Centipede,2018,1,0
+RBML,"Cockroach, American",2018,1,1
+RBML,"Cockroach, German",2018,1,0
+RBML,"Cockroach, Oriental",2018,1,0
+RBML,Cricket,2018,1,0
+RBML,"Moth, Clothes",2018,1,0
+RBML,Silverfish,2018,1,1
+RBML,Spider,2018,1,6
+RBML,Spider- Black Widow,2018,1,0
+RBML,Spider- Brown Recluse,2018,1,0
+RBML,Spring Tail,2018,1,2
+RBML,Termite,2018,1,0
+RBML,"Wasp, Yellow Jacket",2018,1,0
+RBML,Other,2018,1,11
+RBML,"Bees, Honey",2018,2,0
+RBML,"Beetle, Cabinet",2018,2,0
+RBML,"Beetle, Carpet ",2018,2,0
+RBML,"Beetle, Cigarette ",2018,2,0
+RBML,"Beetle, Drugstore",2018,2,0
+RBML,"Beetle, Furniture",2018,2,0
+RBML,"Beetle, Ground",2018,2,0
+RBML,"Beetle, Hide",2018,2,0
+RBML,"Beetle, Odd",2018,2,0
+RBML,"Beetle, Powder post",2018,2,0
+RBML,"Beetle, Spider",2018,2,0
+RBML,"Beetle, Unid.",2018,2,0
+RBML,Book Louse,2018,2,0
+RBML,Centipede,2018,2,1
+RBML,"Cockroach, American",2018,2,0
+RBML,"Cockroach, German",2018,2,0
+RBML,"Cockroach, Oriental",2018,2,0
+RBML,Cricket,2018,2,0
+RBML,"Moth, Clothes",2018,2,0
+RBML,Silverfish,2018,2,1
+RBML,Spider,2018,2,0
+RBML,Spider- Black Widow,2018,2,0
+RBML,Spider- Brown Recluse,2018,2,0
+RBML,Spring Tail,2018,2,0
+RBML,Termite,2018,2,0
+RBML,"Wasp, Yellow Jacket",2018,2,0
+RBML,Other,2018,2,0
+RBML,"Bees, Honey",2018,3,0
+RBML,"Beetle, Cabinet",2018,3,0
+RBML,"Beetle, Carpet ",2018,3,0
+RBML,"Beetle, Cigarette ",2018,3,0
+RBML,"Beetle, Drugstore",2018,3,0
+RBML,"Beetle, Furniture",2018,3,0
+RBML,"Beetle, Ground",2018,3,0
+RBML,"Beetle, Hide",2018,3,0
+RBML,"Beetle, Odd",2018,3,0
+RBML,"Beetle, Powder post",2018,3,0
+RBML,"Beetle, Spider",2018,3,0
+RBML,"Beetle, Unid.",2018,3,0
+RBML,Book Louse,2018,3,0
+RBML,Centipede,2018,3,0
+RBML,"Cockroach, American",2018,3,0
+RBML,"Cockroach, German",2018,3,0
+RBML,"Cockroach, Oriental",2018,3,0
+RBML,Cricket,2018,3,0
+RBML,"Moth, Clothes",2018,3,0
+RBML,Silverfish,2018,3,0
+RBML,Spider,2018,3,0
+RBML,Spider- Black Widow,2018,3,0
+RBML,Spider- Brown Recluse,2018,3,0
+RBML,Spring Tail,2018,3,10
+RBML,Termite,2018,3,0
+RBML,"Wasp, Yellow Jacket",2018,3,0
+RBML,Other,2018,3,1
+RBML,"Bees, Honey",2018,4,0
+RBML,"Beetle, Cabinet",2018,4,0
+RBML,"Beetle, Carpet ",2018,4,0
+RBML,"Beetle, Cigarette ",2018,4,0
+RBML,"Beetle, Drugstore",2018,4,0
+RBML,"Beetle, Furniture",2018,4,0
+RBML,"Beetle, Ground",2018,4,2
+RBML,"Beetle, Hide",2018,4,0
+RBML,"Beetle, Odd",2018,4,0
+RBML,"Beetle, Powder post",2018,4,0
+RBML,"Beetle, Spider",2018,4,0
+RBML,"Beetle, Unid.",2018,4,0
+RBML,Book Louse,2018,4,23
+RBML,Centipede,2018,4,0
+RBML,"Cockroach, American",2018,4,0
+RBML,"Cockroach, German",2018,4,0
+RBML,"Cockroach, Oriental",2018,4,0
+RBML,Cricket,2018,4,0
+RBML,"Moth, Clothes",2018,4,0
+RBML,Silverfish,2018,4,3
+RBML,Spider,2018,4,0
+RBML,Spider- Black Widow,2018,4,0
+RBML,Spider- Brown Recluse,2018,4,0
+RBML,Spring Tail,2018,4,10
+RBML,Termite,2018,4,0
+RBML,"Wasp, Yellow Jacket",2018,4,0
+RBML,Other,2018,4,15
+RBML,"Bees, Honey",2018,5,0
+RBML,"Beetle, Cabinet",2018,5,0
+RBML,"Beetle, Carpet ",2018,5,0
+RBML,"Beetle, Cigarette ",2018,5,0
+RBML,"Beetle, Drugstore",2018,5,0
+RBML,"Beetle, Furniture",2018,5,0
+RBML,"Beetle, Ground",2018,5,1
+RBML,"Beetle, Hide",2018,5,0
+RBML,"Beetle, Odd",2018,5,0
+RBML,"Beetle, Powder post",2018,5,0
+RBML,"Beetle, Spider",2018,5,0
+RBML,"Beetle, Unid.",2018,5,0
+RBML,Book Louse,2018,5,3
+RBML,Centipede,2018,5,0
+RBML,"Cockroach, American",2018,5,0
+RBML,"Cockroach, German",2018,5,0
+RBML,"Cockroach, Oriental",2018,5,1
+RBML,Cricket,2018,5,0
+RBML,"Moth, Clothes",2018,5,0
+RBML,Silverfish,2018,5,0
+RBML,Spider,2018,5,0
+RBML,Spider- Black Widow,2018,5,0
+RBML,Spider- Brown Recluse,2018,5,0
+RBML,Spring Tail,2018,5,0
+RBML,Termite,2018,5,0
+RBML,"Wasp, Yellow Jacket",2018,5,0
+RBML,Other,2018,5,2
+RBML,"Bees, Honey",2018,6,0
+RBML,"Beetle, Cabinet",2018,6,0
+RBML,"Beetle, Carpet ",2018,6,0
+RBML,"Beetle, Cigarette ",2018,6,0
+RBML,"Beetle, Drugstore",2018,6,0
+RBML,"Beetle, Furniture",2018,6,0
+RBML,"Beetle, Ground",2018,6,0
+RBML,"Beetle, Hide",2018,6,0
+RBML,"Beetle, Odd",2018,6,0
+RBML,"Beetle, Powder post",2018,6,0
+RBML,"Beetle, Spider",2018,6,0
+RBML,"Beetle, Unid.",2018,6,0
+RBML,Book Louse,2018,6,1
+RBML,Centipede,2018,6,0
+RBML,"Cockroach, American",2018,6,0
+RBML,"Cockroach, German",2018,6,0
+RBML,"Cockroach, Oriental",2018,6,0
+RBML,Cricket,2018,6,1
+RBML,"Moth, Clothes",2018,6,0
+RBML,Silverfish,2018,6,0
+RBML,Spider,2018,6,0
+RBML,Spider- Black Widow,2018,6,0
+RBML,Spider- Brown Recluse,2018,6,0
+RBML,Spring Tail,2018,6,0
+RBML,Termite,2018,6,0
+RBML,"Wasp, Yellow Jacket",2018,6,0
+RBML,Other,2018,6,0
+RBML,"Bees, Honey",2018,7,0
+RBML,"Beetle, Cabinet",2018,7,1
+RBML,"Beetle, Carpet ",2018,7,1
+RBML,"Beetle, Cigarette ",2018,7,0
+RBML,"Beetle, Drugstore",2018,7,0
+RBML,"Beetle, Furniture",2018,7,0
+RBML,"Beetle, Ground",2018,7,0
+RBML,"Beetle, Hide",2018,7,0
+RBML,"Beetle, Odd",2018,7,0
+RBML,"Beetle, Powder post",2018,7,0
+RBML,"Beetle, Spider",2018,7,0
+RBML,"Beetle, Unid.",2018,7,0
+RBML,Book Louse,2018,7,0
+RBML,Centipede,2018,7,0
+RBML,"Cockroach, American",2018,7,0
+RBML,"Cockroach, German",2018,7,0
+RBML,"Cockroach, Oriental",2018,7,0
+RBML,Cricket,2018,7,0
+RBML,"Moth, Clothes",2018,7,0
+RBML,Silverfish,2018,7,0
+RBML,Spider,2018,7,0
+RBML,Spider- Black Widow,2018,7,0
+RBML,Spider- Brown Recluse,2018,7,0
+RBML,Spring Tail,2018,7,0
+RBML,Termite,2018,7,0
+RBML,"Wasp, Yellow Jacket",2018,7,0
+RBML,Other,2018,7,0
+RBML,"Bees, Honey",2018,8,0
+RBML,"Beetle, Cabinet",2018,8,1
+RBML,"Beetle, Carpet ",2018,8,0
+RBML,"Beetle, Cigarette ",2018,8,0
+RBML,"Beetle, Drugstore",2018,8,0
+RBML,"Beetle, Furniture",2018,8,0
+RBML,"Beetle, Ground",2018,8,0
+RBML,"Beetle, Hide",2018,8,0
+RBML,"Beetle, Odd",2018,8,0
+RBML,"Beetle, Powder post",2018,8,0
+RBML,"Beetle, Spider",2018,8,0
+RBML,"Beetle, Unid.",2018,8,0
+RBML,Book Louse,2018,8,2
+RBML,Centipede,2018,8,0
+RBML,"Cockroach, American",2018,8,0
+RBML,"Cockroach, German",2018,8,0
+RBML,"Cockroach, Oriental",2018,8,0
+RBML,Cricket,2018,8,0
+RBML,"Moth, Clothes",2018,8,0
+RBML,Silverfish,2018,8,0
+RBML,Spider,2018,8,2
+RBML,Spider- Black Widow,2018,8,0
+RBML,Spider- Brown Recluse,2018,8,0
+RBML,Spring Tail,2018,8,1
+RBML,Termite,2018,8,0
+RBML,"Wasp, Yellow Jacket",2018,8,0
+RBML,Other,2018,8,10
+RBML,"Bees, Honey",2018,9,0
+RBML,"Beetle, Cabinet",2018,9,0
+RBML,"Beetle, Carpet ",2018,9,0
+RBML,"Beetle, Cigarette ",2018,9,0
+RBML,"Beetle, Drugstore",2018,9,0
+RBML,"Beetle, Furniture",2018,9,0
+RBML,"Beetle, Ground",2018,9,0
+RBML,"Beetle, Hide",2018,9,0
+RBML,"Beetle, Odd",2018,9,0
+RBML,"Beetle, Powder post",2018,9,0
+RBML,"Beetle, Spider",2018,9,0
+RBML,"Beetle, Unid.",2018,9,0
+RBML,Book Louse,2018,9,0
+RBML,Centipede,2018,9,0
+RBML,"Cockroach, American",2018,9,0
+RBML,"Cockroach, German",2018,9,0
+RBML,"Cockroach, Oriental",2018,9,0
+RBML,Cricket,2018,9,0
+RBML,"Moth, Clothes",2018,9,0
+RBML,Silverfish,2018,9,0
+RBML,Spider,2018,9,0
+RBML,Spider- Black Widow,2018,9,0
+RBML,Spider- Brown Recluse,2018,9,0
+RBML,Spring Tail,2018,9,0
+RBML,Termite,2018,9,0
+RBML,"Wasp, Yellow Jacket",2018,9,0
+RBML,Other,2018,9,0
+RBML,"Bees, Honey",2018,10,0
+RBML,"Beetle, Cabinet",2018,10,0
+RBML,"Beetle, Carpet ",2018,10,0
+RBML,"Beetle, Cigarette ",2018,10,0
+RBML,"Beetle, Drugstore",2018,10,0
+RBML,"Beetle, Furniture",2018,10,0
+RBML,"Beetle, Ground",2018,10,0
+RBML,"Beetle, Hide",2018,10,0
+RBML,"Beetle, Odd",2018,10,0
+RBML,"Beetle, Powder post",2018,10,0
+RBML,"Beetle, Spider",2018,10,0
+RBML,"Beetle, Unid.",2018,10,0
+RBML,Book Louse,2018,10,0
+RBML,Centipede,2018,10,0
+RBML,"Cockroach, American",2018,10,0
+RBML,"Cockroach, German",2018,10,0
+RBML,"Cockroach, Oriental",2018,10,0
+RBML,Cricket,2018,10,0
+RBML,"Moth, Clothes",2018,10,0
+RBML,Silverfish,2018,10,0
+RBML,Spider,2018,10,0
+RBML,Spider- Black Widow,2018,10,0
+RBML,Spider- Brown Recluse,2018,10,0
+RBML,Spring Tail,2018,10,0
+RBML,Termite,2018,10,0
+RBML,"Wasp, Yellow Jacket",2018,10,0
+RBML,Other,2018,10,1
+RBML,"Bees, Honey",2018,11,0
+RBML,"Beetle, Cabinet",2018,11,0
+RBML,"Beetle, Carpet ",2018,11,0
+RBML,"Beetle, Cigarette ",2018,11,0
+RBML,"Beetle, Drugstore",2018,11,0
+RBML,"Beetle, Furniture",2018,11,0
+RBML,"Beetle, Ground",2018,11,0
+RBML,"Beetle, Hide",2018,11,0
+RBML,"Beetle, Odd",2018,11,0
+RBML,"Beetle, Powder post",2018,11,0
+RBML,"Beetle, Spider",2018,11,0
+RBML,"Beetle, Unid.",2018,11,0
+RBML,Book Louse,2018,11,0
+RBML,Centipede,2018,11,0
+RBML,"Cockroach, American",2018,11,0
+RBML,"Cockroach, German",2018,11,0
+RBML,"Cockroach, Oriental",2018,11,0
+RBML,Cricket,2018,11,0
+RBML,"Moth, Clothes",2018,11,0
+RBML,Silverfish,2018,11,0
+RBML,Spider,2018,11,1
+RBML,Spider- Black Widow,2018,11,0
+RBML,Spider- Brown Recluse,2018,11,0
+RBML,Spring Tail,2018,11,0
+RBML,Termite,2018,11,0
+RBML,"Wasp, Yellow Jacket",2018,11,0
+RBML,Other,2018,11,0
+RBML,"Bees, Honey",2018,12,0
+RBML,"Beetle, Cabinet",2018,12,0
+RBML,"Beetle, Carpet ",2018,12,0
+RBML,"Beetle, Cigarette ",2018,12,0
+RBML,"Beetle, Drugstore",2018,12,0
+RBML,"Beetle, Furniture",2018,12,0
+RBML,"Beetle, Ground",2018,12,0
+RBML,"Beetle, Hide",2018,12,0
+RBML,"Beetle, Odd",2018,12,0
+RBML,"Beetle, Powder post",2018,12,0
+RBML,"Beetle, Spider",2018,12,0
+RBML,"Beetle, Unid.",2018,12,1
+RBML,Book Louse,2018,12,0
+RBML,Centipede,2018,12,0
+RBML,"Cockroach, American",2018,12,0
+RBML,"Cockroach, German",2018,12,0
+RBML,"Cockroach, Oriental",2018,12,0
+RBML,Cricket,2018,12,1
+RBML,"Moth, Clothes",2018,12,0
+RBML,Silverfish,2018,12,0
+RBML,Spider,2018,12,0
+RBML,Spider- Black Widow,2018,12,0
+RBML,Spider- Brown Recluse,2018,12,0
+RBML,Spring Tail,2018,12,0
+RBML,Termite,2018,12,0
+RBML,"Wasp, Yellow Jacket",2018,12,0
+RBML,Other,2018,12,8
